@@ -8,8 +8,10 @@ body {
 
 .name {
   font-weight: bold;
-  color: maroon;
+  color: black;
   font-size: 50px;
+  padding: 5px;
+  background-color: maroon;
 }
 .me .well img {
 width: 100%;
@@ -71,4 +73,9 @@ width: 100%;
 .aboutme .abouttext{
   color: white;
   font-size: 20px;
+}
+
+.projectlist p {
+  color: lightgray;
+  font-size: 10px;
 }
