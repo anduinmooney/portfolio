@@ -1,7 +1,36 @@
 .me {
-  margin-left: 12px;
+  margin: 10px;
 }
 
 body {
   background-color: darkred;
+}
+
+.name {
+  font-weight: bold;
+  color: maroon;
+  font-size: 50px;
+}
+.me .well img {
+width: 100%;
+}
+
+.me .well {
+  height: 100%;
+  background-image: url("../img/backdrop.png");
+  text-align: center;
+  font-family: monospace;
+}
+
+.col-md-2 {
+  height: 100%
+}
+
+.me .well h1 {
+
+}
+
+.me .well h2 {
+  text-decoration: underline;
+  color: maroon;
 }
