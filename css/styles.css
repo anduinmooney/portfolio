@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: darkred;
+  background-image: url("../img/city.gif");
 }
 
 .name {
@@ -20,6 +20,7 @@ width: 100%;
   background-image: url("../img/backdrop.png");
   text-align: center;
   font-family: monospace;
+  float: left;
 }
 
 .col-md-2 {
@@ -33,4 +34,32 @@ width: 100%;
 .me .well h2 {
   text-decoration: underline;
   color: maroon;
+}
+
+.navigation .well {
+
+  background-image: url("../img/backdrop.png");
+  background-repeat: round;
+  text-align: center;
+  font-style: italic;
+
+}
+
+.navigation li {
+  font-size: 20px;
+  align-items: center;
+}
+
+.navigation h1 {
+  font-size: 50px;
+  text-decoration: underline;
+  color: white;
+}
+
+.panel{
+  margin-right: 10px;
+  background-color: rgb(81, 81, 81);
+}
+.panel-body {
+  color: rgb(200, 200, 200)
 }

@@ -1,0 +1,30 @@
+.blog1 {
+text-align: center;
+color: red;
+font-style: italic;
+}
+
+.blog2 {
+  text-align: center;
+  text-shadow: 5;
+  font-weight: bold;
+  color: darkred
+  }
+
+  .blog3 {
+    text-align: center;
+    color: salmon;
+  }
+
+.title {
+  text-align: center;
+}
+
+body {
+  background: skyblue;
+}
+
+.aboutme {
+  text-align: center;
+  color: blue;
+}

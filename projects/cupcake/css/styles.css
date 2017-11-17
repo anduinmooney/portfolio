@@ -1,0 +1,25 @@
+.flashy {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+li.best {
+  font-weight: bold;
+  color: maroon;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+body {
+  background-color: hotpink
+}
+
+img {
+  width: 30%;
+}
