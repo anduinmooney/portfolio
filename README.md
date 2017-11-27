@@ -13,6 +13,10 @@ _This webpage is designed to show users the different projects I worked on durin
 * _Download or clone from github_
 * _open index.html into an internet browser_
 
+OR
+
+*_Open website on github pages by going to the following link - anduinmooney.github.io/portfolio
+
 _Make sure to keep included files where they are located, or else the webpage may break_
 
 ## Known Bugs
